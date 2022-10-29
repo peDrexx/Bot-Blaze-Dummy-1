@@ -23,4 +23,4 @@ while True:
 
     os.system('cls')
     print(arr)
-    tm.sleep(7)
+    tm.sleep(5)
